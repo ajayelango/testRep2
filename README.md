@@ -1,2 +1,2 @@
 # testRep2
-Test Repository
+Just another Repository
